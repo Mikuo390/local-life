@@ -1,0 +1,24 @@
+{
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "",
+          "pathName": "pages/shoplist/shoplist",
+          "query": "id=1&title=美食",
+          "scene": null,
+          "launchMode": "default"
+        }
+      ]
+    }
+  }
+}
